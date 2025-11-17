@@ -11,5 +11,6 @@
 
 ## 📌 Pinned Projects
 - [IPC-144 C Programming Basics](https://github.com/xGkioka/IPC-144-) – Starter C programs (functions, I/O, conditionals).  
-- [Linux OPS Labs](https://github.com/xGkioka/OPS/) – Bash commands, file permissions, redirection, and process management.  
+- [Linux OPS Labs](https://github.com/xGkioka/OPS/) – Bash commands, file permissions, redirection, and process management.
+- [Essential Tooling for Programmers](https://github.com/xGkioka/CEP146) - Artificial intelligence.
 - [CrewflowApp](https://github.com/xGkioka/Crewflow) – Symfony + Oro Platform (coming soon).  
