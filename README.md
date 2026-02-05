@@ -1,8 +1,7 @@
 # 👋 Hi, I'm Xenofon Gkioka
 
 💻 Computer Programming Student @ Seneca Polytechnic  
-🛠 Background: Web Developer - IT intern  
-🌱 Building: [CrewFlow Tool Tracker App](#)  
+🛠 Background: Web Developer - IT intern - Junior Backend Developer 
 
 ## 🚀 Currently learning:
 - Object-Oriented Programming principles and design
@@ -15,5 +14,4 @@
 
 ## 🔗 Links
 - [LinkedIn](https://www.linkedin.com/in/xenofon-gkiokas-479419186/)  
-- [Resume](./resume.pdf)  
 
