@@ -3,7 +3,7 @@
 
 # Xenofon Gkioka
 
-**Software Developer** · Toronto, Canada  🇩🇰
+**Software Developer** · Toronto, Canada 
 
 *Computer Programming  @ Seneca Polytechnic *
 
