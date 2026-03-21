@@ -50,9 +50,8 @@
 Backend-leaning full-stack developer with roots in PHP/Symfony and a current focus on the .NET ecosystem. I came to software through construction work in Canada — which means I ship things that actually work, not just things that look good on paper.
 
 - 🔭 Currently building: **ASP.NET MVC app** with EF Core + SQL Server
-- 🚀 Joining: **[Mercell](https://www.mercell.com)** as a Software Developer Intern · Copenhagen · June 2026
-- 🎓 Studying: **Computer Programming & Analysis** @ Seneca Polytechnic, Toronto
-- 🌍 Originally from Greece · Canadian PR · relocating to Europe long-term
+- 🎓 Studying: **Computer Programming** @ Seneca Polytechnic, Toronto
+- 🌍 Originally from Greece 
 
 ---
 
