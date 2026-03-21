@@ -3,9 +3,9 @@
 
 # Xenofon Gkioka
 
-**Software Developer** · Toronto, Canada → Copenhagen, Denmark 🇩🇰
+**Software Developer** · Toronto, Canada  🇩🇰
 
-*Computer Programming & Analysis @ Seneca Polytechnic · Incoming SWE Intern @ Mercell · June 2026*
+*Computer Programming  @ Seneca Polytechnic *
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-xenofongk.github.io-black?style=flat-square&logo=github)](https://xenofongk.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Xenofon_Gkioka-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/xenofon-gkiokas-479419186/)
@@ -14,16 +14,6 @@
 
 ---
 
-## About
-
-Backend-leaning full-stack developer with roots in PHP/Symfony and a current focus on the .NET ecosystem. I came to software through construction work in Canada — which means I ship things that actually work, not just things that look good on paper.
-
-- 🔭 Currently building: **ASP.NET MVC app** with EF Core + SQL Server
-- 🚀 Joining: **[Mercell](https://www.mercell.com)** as a Software Developer Intern · Copenhagen · June 2026
-- 🎓 Studying: **Computer Programming & Analysis** @ Seneca Polytechnic, Toronto
-- 🌍 Originally from Greece · Canadian PR · relocating to Europe long-term
-
----
 
 ## Tech Stack
 
@@ -52,6 +42,17 @@ Backend-leaning full-stack developer with roots in PHP/Symfony and a current foc
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+
+---
+
+## About
+
+Backend-leaning full-stack developer with roots in PHP/Symfony and a current focus on the .NET ecosystem. I came to software through construction work in Canada — which means I ship things that actually work, not just things that look good on paper.
+
+- 🔭 Currently building: **ASP.NET MVC app** with EF Core + SQL Server
+- 🚀 Joining: **[Mercell](https://www.mercell.com)** as a Software Developer Intern · Copenhagen · June 2026
+- 🎓 Studying: **Computer Programming & Analysis** @ Seneca Polytechnic, Toronto
+- 🌍 Originally from Greece · Canadian PR · relocating to Europe long-term
 
 ---
 
