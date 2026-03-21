@@ -60,9 +60,7 @@ Backend-leaning full-stack developer with roots in PHP/Symfony and a current foc
 | Project | Stack | Description |
 |---------|-------|-------------|
 | [dotnet-projects](https://github.com/XenofonGk/dotnet-projects) | C# · .NET | Console apps covering OOP, data structures, and design patterns |
-| [oop244-cpp](https://github.com/XenofonGk/oop244-cpp) | C++ | Object-oriented programming — operator overloading, dynamic memory, Rule of Three |
-| [web-programming-fundamentals](https://github.com/XenofonGk/web-programming-fundamentals) | JS · HTML · CSS | Core web concepts — DOM, HTTP, client-server architecture |
-| [database-fundamentals](https://github.com/XenofonGk/database-fundamentals) | SQL · Oracle | Schema design, normalization, constraints, relational queries |
+| [oop244-cpp](https://github.com/XenofonGk/oop244-cpp) | C++ | Object-oriented programming — operator overloading, dynamic memory, Rule of Three , Ineritance, Polymorphism |
 | [XenofonGk.github.io](https://github.com/XenofonGk/XenofonGk.github.io) | Three.js · GSAP | Personal portfolio — 3D star field, scroll animations |
 
 ---
