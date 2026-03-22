@@ -2,7 +2,7 @@
 
 I am a Software Engineering student at Seneca Polytechnic with a background in web development and a focus on building scalable systems. My experience spans from backend logic to modern frontend architectures.
 
-- **Current Status:** Software Engineering Intern at **Mercell Copenhagen** (starting June 2026).
+- **Current Status:** Software Engineering Intern (starting June 2026).
 - **Education:** 2nd year Computer Programming & Analysis at Seneca Polytechnic.
 - **Portfolio:** [XenofonGk.github.io](https://XenofonGk.github.io)
 
