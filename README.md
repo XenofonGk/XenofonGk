@@ -1,9 +1,8 @@
 # Xenofon Gkioka
  
 Software developer with a background in web development and a focus on building backend systems. Currently preparing for a software engineering internship at Mercell — a B2B procurement SaaS company in Copenhagen.
- 
-- Incoming SWE Intern @ **Mercell**, Copenhagen — June 2026
-- 2nd year Computer Programming & Analysis
+
+- 2nd year Computer Programming
 - Previously: Junior Web Developer — PHP, Symfony, Docker
 - Portfolio: [XenofonGk.github.io](https://XenofonGk.github.io)
  
