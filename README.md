@@ -1,6 +1,6 @@
 # Xenofon Gkioka
  
-Software developer with a background in web development and a focus on building backend systems. Currently preparing for a software engineering internship at Mercell — a B2B procurement SaaS company in Copenhagen.
+Software Engineer Intern at Mercell (React/TypeScript, a11y) · Computer Programming student at Seneca Polytechnic · PHP/Symfony backend background
 
 - 2nd year Computer Programming
 - Previously: Junior Web Developer — PHP, Symfony, Docker
