@@ -3,8 +3,9 @@
 Software Engineer Intern at Mercell (React/TypeScript, a11y) · Computer Programming student at Seneca Polytechnic · PHP/Symfony backend background
 
 - 2nd year Computer Programming
-- Previously: - Software Engineer Intern - React, NX, A11Y, Agile
-              - Junior Web Developer — PHP, Symfony, Docker
+- Previously:
+               - Software Engineer Intern - React, NX, A11Y, Agile
+               - Junior Web Developer — PHP, Symfony, Docker
 - Portfolio: [XenofonGk.github.io](https://XenofonGk.github.io)
  
 ---
