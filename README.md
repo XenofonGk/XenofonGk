@@ -1,6 +1,6 @@
 # Xenofon Gkioka
 
-**Full-stack developer · React, TypeScript, C#/.NET · Toronto** · Canadian PR and EU citizen · open to full-stack roles in Canada and the EU
+**Full-stack developer · React, TypeScript, C#/.NET · Toronto** · open to full-stack roles in Canada and the EU
 
 I build software and I run it. Most of what's below is live right now on a home server I set up the way production is set up: no open ports, signed images, alerts on my phone, backups I've actually restored.
 
