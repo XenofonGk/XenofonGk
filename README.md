@@ -18,16 +18,17 @@ I build software and I run it. Most of what's below is live right now on a home 
 ## Things I've built
 
 - **[AgentMesh](https://github.com/XenofonGk/AgentMesh)**: a self-hosted control plane for AI coding agents across Claude, Gemini, DeepSeek, Grok and Ollama. A credential proxy means the agent process never sees your API keys. TypeScript, Next.js, Fastify, Docker.
-- **[ai-eng](https://github.com/XenofonGk/ai-eng)**: can your tests catch the bug the AI just wrote? It mutation-tests a diff. On 59 real bugs reintroduced into the zod library, it flagged 27 (45.8%); the existing test suite caught 0.
+- **[ai-eng](https://github.com/XenofonGk/ai-eng)**: would your tests notice if the lines you just changed were wrong? It mutation-tests only the lines a diff touches. On 59 real zod bug fixes, reverted one at a time, it flagged the changed lines as weakly tested in 27 (45.8%); zod's own test suite caught 0.
 - **[aoda-scan](https://github.com/XenofonGk/aoda-scan)**: crawls a whole site and grades it against WCAG 2.1 AA and Ontario's AODA, rolling a fault in a shared component up into one fix instead of fifty findings.
 - **Home server**: Cloudflare Tunnel, Caddy, OpenTofu, Prometheus, Grafana, restic. Pull-based deploys that verify each image's signature first.
 
 ## Work
 
-- **Software Engineer Intern, Mercell** (Copenhagen, 2026): React/TypeScript micro-frontends in an NX monorepo, an accessible file-uploader used by 3+ apps, and fixes for over 60% of the accessibility violations in shared UI components.
-- **Junior Software Developer, Spinworks** (Athens, 2021–2022): Symfony and OroCommerce B2B e-commerce.
-- **Freelance**: client websites for a small business and an NGO.
-- **Seneca Polytechnic**: Advanced Diploma, Computer Programming (2027).
+- **Software Engineer Intern, Mercell** (Copenhagen, Jun–Aug 2026): shipped the Document Library micro-frontend to production on a platform with 800,000+ users (React, TypeScript, Module Federation, NX), built an accessible file-uploader library used by 3+ product teams, and cut accessibility violations in shared UI components by over 60%.
+- **Junior Software Developer, Spinworks** (Athens, Aug 2021–Aug 2022): Symfony and OroCommerce B2B e-commerce.
+- **Web Developer, freelance and volunteer** (2021–present): client sites [beautybybeautia.com](https://beautybybeautia.com) and [azclean.gr](https://azclean.gr); volunteer WordPress site for the Kenyan non-profit WAY Empowerment.
+- **Campus Coordinator (elected), Seneca Student Federation** (2026–present).
+- **Seneca Polytechnic**: Ontario College Diploma, Computer Programming (expected April 2027).
 
 ## Stack
 
