@@ -21,7 +21,7 @@ I build software and I run it. My APIs run on a home server set up the way produ
 ## Selected projects
 
 - **[ai-eng](https://github.com/XenofonGk/ai-eng)**: would your tests notice if the lines you just changed were wrong? It mutation-tests only the lines a diff touches. On 59 real zod bug fixes, reverted one at a time, it flagged the changed lines as weakly tested in 27 (45.8%). Zod's own test suite caught 0.
-- **KykloC**: a field-service app for cleaning businesses and trades. Appointments, VAT invoicing, customers and recurring jobs in one place, in Greek and English. React 19, TanStack Start, Tailwind, Supabase. A prototype; the code is private.\
+- **KykloC**: a field-service app for cleaning businesses and trades. Appointments, VAT invoicing, customers and recurring jobs in one place. React 19, TanStack Start, Tailwind, Supabase. A prototype; the code is private.\
   [Case study](https://xgbuilds.dev/projects/kykloc)
 - **[AgentMesh](https://github.com/XenofonGk/AgentMesh)**: a self-hosted control plane for AI coding agents across Claude, Gemini, DeepSeek, Grok and Ollama. A credential proxy means the agent process never sees your API keys. TypeScript, Next.js, Fastify, Docker. In development.
 - **[aoda-scan](https://github.com/XenofonGk/aoda-scan)**: a CLI that crawls a whole site and grades it against WCAG 2.1 AA and Ontario's AODA. A fault in a shared component becomes one fix, not fifty findings.
