@@ -32,7 +32,7 @@ In progress: **[PixelForge](https://github.com/XenofonGk/PixelForge)**, a C++17 
 ## Work
 
 - **Software Engineer Intern, Mercell** (Copenhagen, Jun–Aug 2026). Shipped the Document Library micro-frontend to production on a platform with 800,000+ users (React, TypeScript, Module Federation, NX). Built an accessible file-uploader library used by 3+ product teams. Cut accessibility violations in shared UI components by over 60%.
-- **Web Developer, freelance and volunteer** (2021–present). Client sites [azclean.gr](https://azclean.gr) and [beautybybeautia.com](https://beautybybeautia.com). Volunteer WordPress site for the Kenyan non-profit [WAY Empowerment](https://wayempowerment.com).
+- **Web Developer, freelance and volunteer** (2021–present). Client sites [azclean.gr](https://azclean.gr) and [beautybybeautia.pages.dev](https://beautybybeautia.pages.dev). Volunteer WordPress site for the Kenyan non-profit [WAY Empowerment](https://wayempowerment.com).
 - **Junior Software Developer, Spinworks** (Athens, Aug 2021–Aug 2022). B2B e-commerce with Symfony and OroCommerce.
 - **Campus Coordinator (elected), Seneca Student Federation** (2026–present).
 
