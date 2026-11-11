@@ -14,7 +14,7 @@ I build software and I run it. My APIs run on a home server set up the way produ
 - **Resume Classifier**: a scikit-learn model served with FastAPI. It sorts resume text into 5 job families and gives a confidence score.\
   [Open it](https://resume-classifier.xgbuilds.dev) · [code](https://github.com/XenofonGk/ai-programming-tools/tree/main/AI%20Resume%20Classifier%20%28NLP%20%2B%20ML%29)
 - **Train Yard validator**: C compiled to WebAssembly. Your browser runs the same code the test suite runs.\
-  [Run it in the browser](https://xgbuilds.dev/projects/train-yard) · [code](https://github.com/XenofonGk/train-yard-manager)
+  [Run it in the browser](https://xgbuilds.dev/projects#train-yard) · [code](https://github.com/XenofonGk/train-yard-manager)
 - **azclean.gr**: a client site for a cleaning business in Athens. React and Vite, plus the domain, DNS and search indexing.\
   [azclean.gr](https://azclean.gr)
 
